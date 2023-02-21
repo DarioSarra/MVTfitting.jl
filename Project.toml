@@ -1,0 +1,13 @@
+name = "MVTfitting"
+uuid = "a8c567f7-d805-46b1-8035-8bc5b7dd5d24"
+authors = ["Dario Sarra"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
